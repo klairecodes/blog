@@ -1,0 +1,58 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = "Klaire's Blog"
+theme = 'archie'
+copyright = '@ Klaire Curde'
+paginate = 10
+
+
+[params]
+    favicon = "https://ritlinks.cs.house/static/fav/favicon.ico"
+    mode="toggle"
+    subtitle="Where some random person dumps words. Use content at your own risk."
+
+
+# Social Tags
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/klauscurde"
+
+[[params.social]]
+name = "CSH"
+icon = "github"
+url = "https://csh.rit.edu"
+
+
+# Main Menu Items
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 2
+
+[[menu.main]]
+name = "Posts"
+url = "/posts"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
+
+[[menu.main]]
+name = "Abyss"
+url = "/abyss"
+weight = 5
+
+[[menu.main]]
+name = "Coffee"
+url = "/coffee"
+weight = 6
