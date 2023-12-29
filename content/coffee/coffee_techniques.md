@@ -1,9 +1,177 @@
 +++
-title = 'Coffee Brewing Log'
-description = 'This is where I log different individuals brews of coffee with different parameters. I am okay and do not have a problem.'
-date = 2023-12-28T20:06:33-05:00
+title = 'Coffee_techniques'
+description = "A collection of coffee brewing recipes."
+date = 2023-12-28T20:18:26-05:00
 draft = true
+tldr = "I have a problem."
 +++
+
+<!-----
+
+
+
+Conversion time: 1.036 seconds.
+
+
+Using this Markdown file:
+
+1. Paste this output into your source file.
+2. See the notes and action items below regarding this conversion run.
+3. Check the rendered output (headings, lists, code blocks, tables) for proper
+   formatting and use a linkchecker before you publish this page.
+
+Conversion notes:
+
+* Docs to Markdown version 1.0β35
+* Thu Dec 28 2023 17:15:14 GMT-0800 (PST)
+* Source doc: Coffee Techniques
+----->
+
+
+
+## **Methods**
+
+
+### <span style="text-decoration:underline;">James Hoffman V60 Technique</span>
+
+
+#### Components
+
+
+
+* Coffee: 15g
+    * Grind: relatively fine
+        * Courser for Melitta #2
+        * Courser for darker roasts
+* Water: 250g @ 100℃
+    * (60g coffee:1L water
+* V60, kettle
+
+
+#### Method
+
+
+
+1. Start boiling water.
+2. Fold filter seams.
+3. Presoak filter and brewer and place on scale.
+4. Put in coffee and dig a small mount in the middle.
+5. 0m00s: Pour 50g of water to bloom
+6. 0m10s - 0m15s: Gently Swirl
+7. 0m00s - 0m45s: Bloom
+8. 0m45s - 1m00s: Pour up to 100g total (40% total weight)
+9. 1m00s - 1m10s: Pause
+10. 1m10s - 1m20s: Pour up to 150g total (60% total weight)
+11. 1m20s - 1m30s: Pause
+12. 1m30s - 1m40s: Pour up to 200g total (80% total weight)
+13. 1m40s - 1m50s: Pause
+14. 1m50s - 2m00s: Pour up to 250g total (100% total weight)
+15. 2m00s - 2m05s: Gently swirl
+
+
+#### Notes
+
+
+
+* Performed this method with the Melitta 02 and it makes a difference compared to no systematic method at all (like just pouring all the water at once)
+
+
+### <span style="text-decoration:underline;">James Hoffman Aeropress Default Technique</span>
+
+
+#### Components
+
+
+
+* Coffee: 11g
+    * Grind: finer than pour over, almost espresso
+        * Go lighter for darker roasts
+* Water: 200g @ 100℃
+    * Light Roast: (50g coffee:1L water @ 100℃)
+    * Dark Roast: 60g coffee:1L water @ 85℃)
+* Aeropress, kettle
+
+
+#### Method
+
+
+
+1. Start boiling water.
+2. Set up Aeropress like normal on a scale.
+3. Add coffee grounds, then water as quickly as possible.
+4. PUT PLUNGER IN TOP at a 45° angle, then straighten and pull upwards slightly (this stops the draining)
+5. Wait 2 minutes.
+6. Gently swirl the entire assembly.
+7. Wait 30 seconds.
+8. Start to press, evenly, without putting on too much weight. Should be comfortable while standing upright. Should take 30 seconds.
+9. Slightly pull up the plunger.
+10. Discard grounds.
+
+
+#### Notes
+
+
+
+* If bitter, likely too fine a grind or too hot water.
+* If sour, too coarse a grind or too cold water
+
+
+### <span style="text-decoration:underline;">James Hoffman Bialetti Moka Pot Technique</span>
+
+Boiling water in the boiler
+
+
+#### Constants:
+
+2. Full basket of coffee
+
+3. Avoid sputtering phase by cooling down the chamber under cold water
+
+
+#### Variables:
+
+1. The lighter the roast, the finer the ground.
+
+2. Less filled boiler will brew a bit earlier. Usually, dark roasts -> a bit less water, light roasts -> full boiler
+
+3. Preheat the hob/relatively low heat on the gas hob 4. As soon as the liquid starts to flow, turn off the heat. For electric hobs, move it to the edge of the hob.
+
+
+#### Troubleshooting:
+
+If the sputtering phase starts before you think it's
+
+time (not enough coffee out etc):
+
+1. Too fine of a grind
+
+2. Too much heat
+
+
+## Tetsu Kasuya Hario Switch
+
+Steps
+
+1. open the Switch dripper (prepare for a percolation brew)
+
+2. 0:00 1st pour 60g for the bloom
+
+3. 0:30 2nd pour 60g(to 120g)
+
+4. pour cold water to your kettle, to bring down
+
+the water temp to 70 degrees Celcius or 158
+
+degrees Fahrenheit
+
+5. 1:15 close the Switch dripper(prepare for an immersion brew), and 3rd pour 160g(to 280g)
+
+6. 1:45 open the Switch dripper and start the draw down
+
+7. 3:00 target time for the end of draw down(you may remove the dripper and adjust the strength by adding hot water to the coffee)
+
+
+
 
 ## **General Coffee Notes**
 

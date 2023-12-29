@@ -7,7 +7,7 @@ paginate = 10
 
 
 [params]
-    favicon = "https://ritlinks.cs.house/static/fav/favicon.ico"
+    favicon = "coffee-cup-outline.ico"
     mode="toggle"
     subtitle="Where some random person dumps words. Use content at your own risk."
 
@@ -21,7 +21,7 @@ url = "https://github.com/klauscurde"
 
 [[params.social]]
 name = "CSH"
-icon = "github"
+icon = "hard-drive"
 url = "https://csh.rit.edu"
 
 
@@ -51,6 +51,7 @@ weight = 4
 name = "Abyss"
 url = "/abyss"
 weight = 5
+contentDir = "content/abyss"
 
 [[menu.main]]
 name = "Coffee"
