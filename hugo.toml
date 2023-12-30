@@ -1,4 +1,4 @@
-baseURL = 'https://kcurde.com/blog'
+baseURL = 'https://kcurde.com/'
 languageCode = 'en-us'
 title = "Klaire's Blog"
 theme = 'archie'
