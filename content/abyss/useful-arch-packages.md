@@ -2,7 +2,6 @@
 title = 'Useful Arch Packages'
 description = 'A collection of Arch Linux packages and utilities that I will remember needing their functionality but not their name.'
 date = 2023-12-28T20:58:47-05:00
-draft = true
 tldr = "I can't remember the names of things."
 +++
 

@@ -2,7 +2,6 @@
 title = 'Coffee_techniques'
 description = "A collection of coffee brewing recipes."
 date = 2023-12-28T20:18:26-05:00
-draft = true
 tldr = "I have a problem."
 +++
 

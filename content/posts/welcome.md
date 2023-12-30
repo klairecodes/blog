@@ -3,7 +3,6 @@ title = 'Welcome'
 date = 2023-12-28T11:22:47-05:00
 description = "I'm testing various things, and its unlikely that you'll see this!"
 tldr = 'A test post. No valuable content, not unlike the rest of the site.'
-draft = true
 +++
 
 Welome to my blog!  
