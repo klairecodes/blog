@@ -2,7 +2,6 @@
 title = 'About Me'
 date = 2023-12-28T11:22:47-05:00
 description = "Aboutttttttttt"
-draft = true
 +++
 
 # About Me
