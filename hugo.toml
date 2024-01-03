@@ -50,10 +50,10 @@ name = "Posts"
 url = "/posts"
 weight = 4
 
-[[menu.main]]
-name = "Tags"
-url = "/tags"
-weight = 5
+#[[menu.main]]
+#name = "Tags"
+#url = "/tags"
+#weight = 5
 
 [[menu.main]]
 name = "Abyss"
