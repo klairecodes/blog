@@ -1,5 +1,6 @@
 +++
 title = 'Tetsu Kasuya God/Devil Hario Switch Recipe'
+description = "A simple and bulletproof recipe that makes cups with amazing smoothness every time."
 date = 2024-01-03T10:58:59-05:00
 tags = ['coffee', 'hario switch', 'tetsu kasuya']
 +++

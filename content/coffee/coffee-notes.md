@@ -1,7 +1,9 @@
 +++
 title = 'Coffee Notes'
+description = "A dump of miscellaneous info on coffee in general and my particular equipment."
 date = 2024-01-03T12:08:35-05:00
 tags = ['coffee']
+tldr = "This information is all dubious, but may explain things that are unclear in other posts."
 +++
 
 ## Equipment

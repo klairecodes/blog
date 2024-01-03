@@ -1,5 +1,6 @@
 +++
 title = 'Bunnik Aeropress Championship 2019 Recipe'
+description = "A recipe making a strong but smooth cup that pulls out many aromas from your beans."
 date = 2024-01-03T11:53:48-05:00
 tags = ['coffee', 'aeropress', 'wendelien van bunnik']
 +++

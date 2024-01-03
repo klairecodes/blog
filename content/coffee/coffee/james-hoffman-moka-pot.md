@@ -1,5 +1,6 @@
 +++
-title = 'James Hoffman Moka Pot'
+title = "James Hoffman's Ultimate Moka Pot Technique"
+description = "James Hoffman's diligently researched Moka Pot recipe for a smooth and not overly-astringent cup."
 date = 2024-01-03T10:58:31-05:00
 tags = ['coffee', 'moka pot', 'james hoffman']
 +++

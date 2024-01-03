@@ -1,5 +1,6 @@
 +++
 title = "James Hoffman's V60 Technique"
+description = "James Hoffman's excellent V60 technique that is a safe default to know."
 date = 2024-01-03T10:57:55-05:00
 tags = ['coffee', 'v60', 'james hoffman']
 +++

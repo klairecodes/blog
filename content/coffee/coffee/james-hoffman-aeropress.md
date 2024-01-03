@@ -1,5 +1,6 @@
 +++
 title = "James Hoffman's Aeropress Default Technique"
+description = "James Hoffman's Aeropress simple recipe that consistently brews a good cup, even with cheap beans."
 date = 2024-01-03T10:58:11-05:00
 tags = ['coffee', 'aeropress', 'james hoffman']
 +++
