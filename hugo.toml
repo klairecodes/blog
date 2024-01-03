@@ -65,3 +65,8 @@ contentDir = "content/abyss"
 name = "Coffee"
 url = "/coffee"
 weight = 7
+
+
+# Taxonomies
+[taxonomies]
+coffee = 'coffees'
