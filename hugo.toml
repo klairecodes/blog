@@ -12,7 +12,7 @@ pygmentscodefences = true
 [params]
     favicon = "/coffee-cup-outline.ico"
     mode="toggle"
-    subtitle="Where some random person dumps words. Use content at your own risk."
+    subtitle="Hi I'm Klaire, and I'm a Software/DevOps Engineer that is undeniably addicted to coffee. I dump a lot of text here, enjoy your stay and use the content at your own risk!"
 
 
 # Social Tags
@@ -21,6 +21,11 @@ pygmentscodefences = true
 name = "GitHub"
 icon = "github"
 url = "https://github.com/klauscurde"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/klaire-curde/"
 
 [[params.social]]
 name = "CSH"
