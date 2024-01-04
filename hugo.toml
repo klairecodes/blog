@@ -13,6 +13,7 @@ pygmentscodefences = true
     favicon = "/coffee-cup-outline.ico"
     mode="toggle"
     subtitle="Hi I'm Klaire, and I'm a Software/DevOps Engineer that is undeniably addicted to coffee. I dump a lot of text here, enjoy your stay and use the content at your own risk!"
+    mainSections = ['projects', 'posts', 'coffee', 'abyss']
 
 
 # Social Tags

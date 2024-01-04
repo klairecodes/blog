@@ -2,7 +2,6 @@
 title = 'Coffee Brewing Log'
 description = 'This is where I log different individuals brews of coffee with different parameters. I am okay and do not have a problem.'
 date = 2023-12-28T20:06:33-05:00
-weight = 2
 +++
 
 ## **General Coffee Notes**
