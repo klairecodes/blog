@@ -1,4 +1,6 @@
-# This is my personal, blog, and project portfolio website.
+# My Personal Website and Blog
+See it live at https://kcurde.com.
+
 
 # Using
 ## Docker/Podman
