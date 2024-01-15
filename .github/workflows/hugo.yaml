@@ -59,7 +59,7 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "https://kcurde.com/"          
+            --baseURL "https://klaire.codes/"          
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
