@@ -62,3 +62,7 @@ A collection of Arch Linux packages and utilities that I will remember needing t
 - toilet & figlet: ascii letter generation
 - socat
 - mkinitcpio-firmware - suppress missing firmware messages
+- mpd - music player daemon, cool ncurses interface
+- croc - extremely convenient way to securely transfer files
+- fd - a much more convenient implementation of find written in Rust
+- nvtop - htop for GPUs

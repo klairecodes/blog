@@ -9,3 +9,6 @@ tldr = 'I have found these sites to be useful tools when doing work.'
 - [coolors](https://coolors.co/): color pallete generator
 - [paletton](https://paletton.com): sophisticated color and css prototyper
 - [color-hex](https://www.color-hex.com/): quick hex color codes tool
+
+## General Development
+- [Tables Generator](https://www.tablesgenerator.com/): generates tables for you into a variety of formats
