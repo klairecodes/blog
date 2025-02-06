@@ -61,8 +61,12 @@ A collection of Arch Linux packages and utilities that I will remember needing t
 - pdfmixtool: generate pdf booklet
 - toilet & figlet: ascii letter generation
 - socat
-- mkinitcpio-firmware - suppress missing firmware messages
-- mpd - music player daemon, cool ncurses interface
-- croc - extremely convenient way to securely transfer files
-- fd - a much more convenient implementation of find written in Rust
-- nvtop - htop for GPUs
+- mkinitcpio-firmware: suppress missing firmware messages
+- mpd: music player daemon, cool ncurses interface
+- croc: extremely convenient way to securely transfer files
+- fd: a much more convenient implementation of find written in Rust
+- nvtop: htop for GPUs
+- vnStat: network traffic monitor
+- threshy: gui for ThinkPad battery threshold configuration
+- armcord: lightweight 3rd party Discord client with helpful plugins
+- zvm: zsh vi mode, a better implementation
